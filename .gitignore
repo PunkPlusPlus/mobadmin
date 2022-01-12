@@ -7,7 +7,6 @@
 config/db.php
 config/db2.php
 config/params.php
-config/web.php
 config/console.php
 
 
