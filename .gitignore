@@ -2,8 +2,8 @@
 
 /vendor
 
-/files/apk/*
-/files/keystore/*
+/files/apk/
+/files/keystore/
 
 config/db.php
 config/db2.php
