@@ -1,0 +1,140 @@
+swagger: "2.0"
+info:
+  description: ""
+  version: "1.0.0"
+  title: "Partners Api"
+  termsOfService: ""
+  contact:
+
+host: "my.joyapp.partners/apiv1"
+
+schemes:
+  - "https"
+paths:
+  
+  /geo/remove-geo:
+    post:
+      tags:
+        - "geo"
+      summary: "Remove countries and links"
+      description: ""
+      operationId: "removeGeo"
+      consumes:
+        - "application/json"
+        - "application/xml"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: ""
+          required: true
+          schema:
+            $ref: "#/definitions/Geo"
+      responses:
+        "405":
+          description: "Invalid data"
+
+  /links/naming:
+    post:
+      tags:
+        - "links"
+      summary: "Add default link with naming"
+      description: ""
+      operationId: "addLink"
+      consumes:
+        - "application/json"
+        - "application/xml"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: ""
+          required: true
+          schema:
+            $ref: "#/definitions/defaultlink"
+      responses:
+        "405":
+          description: "Invalid data"
+  /links/organic:
+    post:
+      tags:
+        - "links"
+      summary: "Add organic link without naming"
+      description: ""
+      operationId: "addLink"
+      consumes:
+        - "application/json"
+        - "application/xml"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: ""
+          required: true
+          schema:
+            $ref: "#/definitions/organiclink"
+      responses:
+        "405":
+          description: "Invalid data"
+
+definitions:
+
+  Geo:
+    type: "object"
+    required:
+      - "name"
+      - "photoUrls"
+    properties:
+      package:
+        type: "string"
+        format: "text"
+      geo:
+        type: "array"
+        example: [ "us", "de" ]
+      token:
+        type: "string"
+        format: "text"
+
+    xml:
+      name: "Pet"
+  defaultlink:
+    type: "object"
+    properties:
+      package:
+        type: "string"
+        format: "text"
+      geo:
+        type: "array"
+        example: [ "us", "de" ]
+      token:
+        type: "string"
+        format: "text"
+      value:
+        type: "string"
+        format: "text"
+      url:
+        type: "string"
+        format: "text"
+  organiclink:
+    type: "object"
+    properties:
+      package:
+        type: "string"
+        format: "text"
+      geo:
+        type: "array"
+        example: [ "us", "de" ]
+      token:
+        type: "string"
+        format: "text"
+
+      url:
+        type: "string"
+        format: "text"
+

@@ -1,0 +1,129 @@
+    <div class="support_contents">
+        <div id="main_title" class="main_title" style=" background-color: white;  position:relative; max-width:1000px; height:100px; text-align: center;">
+            <span style="width:251px; height:25px;font-family: 'Lilita One', cursive; font-size:35px; font-weight:bold; font-style:normal; font-stretch:normal; line-height:3.5; letter-spacing:normal; color:#000409;">
+MAXFIYLIK SIYOSATI</span>
+        </div>
+        <pre style="font-family: 'Kanit', sans-serif;background-color:white;padding:20px">
+
+Ijroga Kirish muddati: {date}
+
+{company_name}, Inc ("Biz" yoki "biz") AQSh qonunlariga binoan tashkil etilgan, bizning o'yinlarimiz, ilovalarimiz, forumlarimiz va / yoki veb-saytlarimizdan (birgalikda "Xizmatlar") foydalanuvchi mehmonlar, foydalanuvchilar, mijozlar va boshqa tomonlar (birgalikda yoki alohida "Foydalanuvchilar") uchun maxfiylik muhimligini tan oladi.
+
+Biz to'plangan shaxsiy ma'lumotlarni boshqaruvchimiz. Shaxsiy ma'lumotlaringizni faqat amaldagi ma'lumotlarni himoya qilish to'g'risidagi qonunlarga muvofiq (Evropa Ittifoqi) Ma'lumotlarni Himoyalash Umumiy Qoidasi (2016/679) ("GDPR") va shu bilan cheklanmagan holda yig'amiz, foydalanamiz, saqlaymiz va uzatamiz ("qayta ishlaymiz") va ma'lumotlarni himoya qilish bo'yicha amaldagi milliy qonunchilik.
+
+Ushbu Maxfiylik siyosati Xizmatlar orqali to'plangan Foydalanuvchi ma'lumotlarini ishlatish va oshkor qilish bilan bog'liq muhim ma'lumotlarni o'z ichiga oladi. Ushbu Maxfiylik siyosati bizning Xizmat shartlarimizga kiritilgan va ularga rioya qilinadi. Sizning Xizmatlardan foydalanishingiz va Xizmatlarda taqdim etgan har qanday shaxsiy ma'lumotlaringiz ushbu Maxfiylik siyosati va Xizmat ko'rsatish shartlarimizga muvofiq qoladi. Iltimos, ushbu Maxfiylik siyosatini diqqat bilan o'qing va agar sizda biron bir savol bo'lsa, iltimos, biz bilan bog'laning elektron pochtamizga <span class="email">{email}</span>. Ushbu maxfiylik siyosati vaqti-vaqti bilan o'zgartirilishi mumkin. Agar siz ushbu Maxfiylik siyosatiga kiritilgan o'zgartirishlarni rad qilsangiz, siz xizmatlardan foydalanishni davom ettirishingiz mumkin emas, shuning uchun siz barcha funktsiyalar saqlanib qolinadi.
+
+Izoh: Ijtimoiy va mobil platformalar orqali taqdim etiladigan xizmatlarimizga kelsak, davom etishdan oldin ularning foydalanish shartlarini, shuningdek ularning maxfiylik siyosatini o'qish va qabul qilish sizning zimmangizdadir. Biz boshqa veb-saytlarning maxfiylik amaliyoti uchun javobgar emasmiz.
+
+<h5>NEGA ELEKTRON MANZILNI KOLLEKSIZ</h5>
+Sizning elektron pochta manzilingizni to'plashdagi asosiy maqsadimiz yanada qiziqarli va qiziqarli tajriba taqdim etish orqali xizmatlarimizni yaxshilash va ishtirokingizni samarali boshqarish. Biz sizning e-pochta manzilingizni faqat sizning kelishuvingiz asosida yig'amiz va siz sizga yangilanishlar, xabarnomalar yoki boshqa tarkibga ega elektron pochta xabarlarini yuborishimiz mumkinligini tushunasiz va rozilik bildirasiz.
+<h5>NEGA BIZ MA'LUMOTLARNI YARADI</h5>
+Ma'lumot to'plashdagi asosiy maqsadlarimiz yanada qiziqarli va qiziqarli tajriba taqdim etish orqali xizmatlarimizni yaxshilash va ishtirokingizni samarali boshqarish. Biz qonuniy majburiyatlarimizni bajarishimiz yoki siz bilan tuzilgan shartnoma shartlarini bajarishimiz uchun yoki xizmatlarni sizga taqdim qilish uchun biz shaxsiy ma'lumotlarni to'plashimiz kerak bo'lishi mumkin. Agar siz ushbu shaxsiy ma'lumotlarni bizga bermaslikni tanlasangiz, bu bizning majburiyatlarimizni bajarishimizga xalaqit berishi mumkin. Bu shuningdek, sizning boshqaruvingiz uchun zarur bo'lgan xizmatlarni bajara olmayotganimizni anglatishi mumkin <span class="company_name">{company_name}</span> hisoblar yoki qoidalar. Bu shuningdek, biz bilan birga bo'lgan mahsulot yoki xizmatni bekor qilishimiz kerakligini yoki hatto bizning xizmatlarimizning ayrim qismlarini o'ynay olmasligingizni anglatadi.
+
+<h5>Qachon BIZ MA'LUMOTLARNI YARADI</h5>
+Biz sizning Xizmatlarimizdan foydalanganda ma'lumotlaringizni to'plashimiz mumkin, jumladan:
+<ul
+><li>Siz ro'yxatdan o'tasiz <span class="company_name">{company_name}</span> hisob</li
+><li>Siz bizning o'yinlarimizni o'ynaysiz</li
+><li> Siz ro'yxatdan o'ting va bizning forumlarimizdan foydalanasiz</li
+><li> Siz bizning yordam markazimizga elektron pochta yoki xatlar orqali murojaat qilasiz</li
+><li> Siz bizning veb-saytlarimiz, ilovalarimiz yoki o'yinlarimizdan foydalanasiz</li
+><li> Siz bizning so'rovnomalarimizda qatnashasiz</li
+><li> Siz foydalanuvchilarning tadqiqot tashabbuslarida ishtirok etasiz</li
+><li> Siz bizning musobaqalarimiz yoki aktsiyalarimizda ishtirok etasiz</li
+><li> Siz bizning tadbirlarimizdan biriga yozasiz yoki unda ishtirok etasiz</li
+><li> Siz bizning reklamalarimiz yoki yangiliklarimizdan birini bosing</li
+><li> Siz uchun ishlaysiz <span class="company_name">{company_name}</span></li></ul>
+<h5>NIMA QOLMOQDA</h5>
+Xizmatlardan birida biz bilan ro'yxatdan o'tganingizda, biz siz bilan bog'lanish yoki sizni aniqlash uchun ishlatilishi mumkin bo'lgan bevosita yoki bilvosita shaxsiy ma'lumotni so'rashimiz mumkin. ("Shaxsiy ma'lumotlar"). Shuningdek, biz sizning hisob qaydnomangizni ro'yxatdan o'tkazish va boshqarish va shaxsiylashtirishning bir qismi sifatida taqdim qilingan boshqa ma'lumotlarni to'playmiz.
+Siz bizga taqdim etishingiz mumkin bo'lgan shaxsiy ma'lumotlar elektron pochta manzili, foydalanuvchi nomi, yashash joyi, tug'ilgan yili yoki tug'ilgan yili, forumda va o'yinlarda ism va taxalluslarni o'z ichiga oladi.
+Sizga o'zingiz haqingizdagi boshqa ma'lumotlarni (jinsi, yoshi, kasbi, sevimli mashg'ulotlari, qiziqishlari, pochta indeksi, tili, mintaqa kodi, joylashuvi, xizmat ishlatiladigan vaqt zonasi, mobil qurilma, dasturiy ta'minot, voqea-hodisalar) taqdim etish imkoniyatini taqdim etishimiz mumkin. ma'lumotlar va tarmoqdagi Media Access Control (MAC) manzili va ulanishi, siz egalik qilishingiz mumkin bo'lgan qurilmalar to'g'risidagi ma'lumotlar, sizning sevimli veb-saytlaringiz, do'stlaringiz haqida ma'lumot va fan sahifalari) yoki biz ushbu ma'lumotlarni ijtimoiy tarmoq tizimlaridan ("SNS") to'plashimiz mumkin. ) siz xizmatlardan foydalangan bo'lsangiz (ushbu tizimlardan foydalanish shartlariga muvofiq), ular keyinchalik ushbu Maxfiylik siyosati bilan qoplanadi.
+<h5>MA'LUMOTNI QAYTA ISHLASh MAQSADLARI</h5>
+Shaxsiy ma'lumotlaringizni quyidagi maqsadlardan biri uchun ishlatishimiz va qayta ishlashimiz mumkin:
+  <ul
+  ><li> siz bilan tuzgan shartnomani bajarish;</li
+  ><li> bu bizning qonuniy burchimiz bo'lganida (masalan, yoshingizni aniqlash va biz bolalardan Shaxsiy ma'lumotlarni to'plashimiz, buxgalteriya maqsadlari va davlat idoralari oldidagi majburiyatlarimizni bajarish);</li
+  ><li> unga rozi bo'lganingizda (masalan, har qanday xizmatlarni ro'yxatdan o'tkazish orqali);</li
+  ><li> bu bizning qonuniy manfaatlarimizga zid bo'lganda (masalan, o'z siyosatimizni amalga oshirish, kundalik ishimizni boshqarish, anonim va yig'ma shaklda foydalanish, statistik tahlil qilish, to'g'ridan-to'g'ri marketing maqsadida, axborot xavfsizligini ta'minlash, firibgarlik yoki firibgarlikning oldini olish shaxsiy ma'lumotlaringizni kerak bo'lganda tashkilotning turli qismlariga o'tkazish.</li
+  ></ul>
+<h5 >BIZNING MA'LUMOTLARIMIZNI QANDAY FOYDALANMIZ</h5>
+Shaxsiy ma'lumotlaringizdan dastlab to'plangan maqsadlardan tashqari boshqa maqsadlarda foydalanmaymiz.
+Bizning biznesimizni boshqarish va o'yin tajribangizni oshirish uchun biz ma'lumotlaringizdan quyidagi yo'llar bilan foydalanishimiz mumkin:
+<ul
+><li> Sizga bizning o'yinlarimiz, ilovalarimiz va xizmatlarimizni boshqarish, yaxshilash, rivojlantirish va ta'minlash uchun</li
+><li> Sizga sizga yoqishi mumkin bo'lgan tavsiyalar va o'yin takliflarini taqdim etish</li
+><li> Sizdan so'rovlarga yoki sharhlarga javob berish uchun</li
+><li> Ruxsatsiz kirishning oldini olish uchun sizning shaxsingizni tasdiqlash</li
+><li> Sizga dasturiy ta'minot yangilanishlari bilan ta'minlash uchun</li
+><li> Foydalanish tendentsiyalarini tushunish</li
+><li> Marketingni konversiyalash stavkalarini va reklama faoliyatining boshqa elementlarini hisoblash uchun</li
+><li> O'yinlar va xizmatlardagi xato va xatolarni kuzatish va tuzatishga yordam berish</li
+><li> Foydalanuvchi tajribasini sozlash uchun</li
+><li> Xizmatlarning yaxlitligi va xavfsizligini ta'minlash uchun</li
+><li> Tranzaktsiyalarni qayta ishlash va ushbu operatsiyalar bo'yicha siz bilan bog'lanish</li
+><li> Sizning xizmatingizni boshqarish yoki boshqarish uchun <span class="company_name">{company_name}</span> hisob qaydnomasi, jumladan, yangilanish uchun siz bilan bog'lanish <span class="company_name">{company_name}</span> agar kerak bo'lsa, hisob ma'lumotlari</li
+><li> Tadqiqot va biznesni o'rganish maqsadida hisobot, tahlil yoki shunga o'xshash narsalarni yaratish va yuzaga kelishi mumkin bo'lgan muammolar, xatti-harakatlar va tendentsiyalarni kuzatib borish</li
+><li> Foydalanish shartlari va ushbu Maxfiylik siyosatimizdan foydalanish</li
+><li> Sizga axborot byulletenlarini va reklama e'lonlarini va takliflarini yuborish uchun</li
+><li> Xizmatlarimizni adolatli saqlash, firibgarliklar va noqonuniy xatti-harakatlarning oldini olish</li
+><li> Amaldagi qonun va qoidalarga rioya qilish</li
+></ul>Marketing haqida maxsus ma'lumotlar: Biz sizning ma'lumotlaringizdan sizni tegishli mahsulotlar va takliflar to'g'risida xabardor qilish uchun foydalanamiz (masalan, sizga maqsadli marketingni taqdim etamiz). Bunday holatlarda biz to'playdigan ma'lumotlar o'z ichiga siz bizga to'liq taqdim etadigan ma'lumotlar, shuningdek, bizning Xizmatlarimizdan foydalanganingizda yoki biz ishlaydigan uchinchi tomonlardan to'plangan ma'lumotlarni o'z ichiga oladi. Sizga kerak yoki kerak bo'lishi mumkin bo'lgan yoki sizni qiziqtirishi mumkin bo'lgan narsalar haqida fikrni shakllantirish uchun ushbu ma'lumotlarni tahlil qilamiz.
+
+<h5>MA'LUMOTNING NAZORATI</h5>
+Agar siz Shaxsiy ma'lumotlarni o'z ichiga olgan xabarlar yoki xabarlarni yuborsangiz, ushbu ma'lumotlar boshqalar tomonidan to'planishi va ishlatilishi mumkinligi haqida ogohlantiring.
+E'tibor bering, siz Xizmat yoki uchinchi tomon saytlari yoki xizmatlari orqali joylashtiradigan va ular bilan aloqa qiladigan shaxsiy ma'lumotlar maxfiylik haqida hech qanday tasavvurga ega bo'lmagan ommaviy ma'lumotlardir. Siz foydalanuvchi haqidagi tarkibni bizning saytlarimizga yoki xizmatlarga qo'shganingizda yoki uning suhbat xonalarida, bloglarida, xabarlar taxtalarida, foydalanuvchiga tegishli "profil" da yoki mobil saytlar orqali ushbu saytlarda shunga o'xshash forumlarda o'zingizni ochishni tanlashingiz mumkin. / yoki uchinchi tomon saytlari yoki xizmatlari orqali. Ushbu forumlarning biron birida oshkor qiladigan ma'lumotingiz ochiq ma'lumotdir va maxfiylik yoki maxfiylikni kutish mumkin emas.
+Siz shuni bilishingiz kerakki, ushbu ommaviy tadbirlar davomida siz taqdim etadigan har qanday shaxsni aniqlashi mumkin bo'lgan ma'lumotlar o'qilishi, to'planishi yoki ushbu forumlarning boshqa foydalanuvchilari tomonidan ishlatilishi va sizga keraksiz xabarlarni yuborish uchun ishlatilishi mumkin. Ushbu forumlarning birortasida hammaga e'lon qilishni tanlaganingiz uchun shaxsan aniqlanadigan ma'lumot uchun biz javobgar emasmiz. Agar siz video, rasm yoki fotosuratni jamoat joyida ko'rish uchun xizmat orqali joylashtirsangiz, siz ularni ko'rish, to'plash, nusxalash va saqlashingiz mumkinligini bilishingiz kerak. / yoki boshqa foydalanuvchilar tomonidan sizning ruxsatingizsiz foydalaniladi. Biz Xizmat orqali e'lon qilishni tanlagan video, rasmlar yoki fotosuratlar uchun javobgar emasmiz.
+<h5>MA'LUMOTINGIZNI OChISh</h5>
+Shaxsiy ma'lumotlaringizni boshqa kompaniyalar va tashkilotlarga oshkor qilishimiz mumkin. Agar biz sheriklarimiz sizning shaxsiy ma'lumotlaringiz biz tomondan amalga oshirilganidek xavfsiz saqlanishi uchun bir xil darajadagi xavfsizlikni ta'minlasalar va bizning sheriklarimiz amaldagi qonunlar va maxfiylik qoidalariga rioya qilishlarini ta'minlasalar, biz buni amalga oshiramiz. Biz sizning ma'lumotlaringizni quyidagi sheriklar bilan bo'lishishimiz mumkin:<ul
+><li> Bozor tadqiqot agentliklari</li
+><li> O'yin tarqatish platformalari</li
+><li> Hammualliflarning sheriklari</li
+><li> To'lovni etkazib beruvchilar</li
+><li> Bizning platformamiz va xizmatlarni qo'llab-quvvatlashga yordam beradigan kompaniyalar va tashqi maslahatchilar</li
+><li> Bizning reklama kampaniyalarimiz samaradorligini tushunishga yordam beradigan reklama bo'yicha sheriklar va aniqlash platformalari</li
+><li> E'tibor bering, bizning o'yinlarimiz yoki mahsulotlarimiz boshqa dasturlarda reklama qilinishi mumkin. Agar siz ushbu reklamalardan birini bossangiz va o'yinimizni o'rnatsangiz, siz bizning Xizmatlarimizdan foydalanuvchi bo'lasiz. Firibgarlikning oldini olish va o'yinning o'rnatilishini tekshirish uchun biz sizning IDFA (iOS) va / yoki Advertiser ID (Android) -ni tegishli reklama beruvchiga ulashamiz.</li
+><li> Biz sizning shaxsiy ma'lumotlaringizni sudning qaroriga binoan, qonunga muvofiq yoki bankrotlik yoki boshqa baxtsiz hodisa yuz bergan taqdirda ozod qilishimiz mumkin. Bizdan olingan har qanday qidiruv orderi, sudga chaqiruv qog'ozi yoki shunga o'xshash boshqa hukumat so'rovining haqiqiyligini so'roq qilish yoki bahslashish talab qilinmaydi.</li
+><li> Agar biz o'z biznesimizning qismlarini sotishni, topshirishni yoki birlashtirishni tanlasak, biz sizning shaxsiy ma'lumotlaringizni kelajakdagi filiallar yoki kompaniyalar bilan baham ko'rishimiz va olishimiz mumkin. Ammo, biz shaxsiy ma'lumotlarni faqat agar ushbu kompaniyalar tegishli maxfiylik qoidalariga rioya qilgan taqdirda va sizning shaxsiy ma'lumotlaringiz saqlanishini kafolatlashi sharti bilan o'tkazamiz.</li
+><li> Biz sizning shaxsiy ma'lumotlaringizni siz yashaydigan joyda qat'iy shaxsiy maxfiylik qonunlariga ega bo'lmasligi mumkin bo'lgan Evropa Ittifoqi va EEAdan tashqaridagi mamlakatlarga uzatamiz.</li
+></ul>
+
+<h5>XIZMATINGIZNI MA'LUMOTNING MUSTAHKAMLANISH MEROSI</h5>
+Siz o'yinchi yoki mijoz bo'lsangiz, biz sizning ma'lumotlaringizni saqlab turamiz <span class="company_name">{company_name}</span>. Biz sizning ma'lumotlaringizni tadqiqot yoki statistik maqsadlar uchun ko'proq saqlashimiz mumkin. Agar shunday qilsangiz, sizning ma'lumotlaringiz shaxs sifatida sizga anonim va kuzatib olinmasligiga ishonch hosil qilamiz. Agar qonuniy yoki tartibga soluvchi sabablarga ko'ra o'chira olmasak, biz uni yana ko'proq saqlab turamiz.
+Biroq, biz barcha shaxsiy ma'lumotlarni oqilona vaqtdan keyin yo'q qilamiz. Shuningdek, shaxsiy ma'lumotni so'rov bo'yicha yo'q qilamiz.
+
+<h5>BOLALAR</h5>
+Bizning xizmatlarimiz bolalarga mo'ljallanmagan va biz 13 yoshdan kichik bolalardan ma'lumot yig'maymiz. Biz ota-onalarga yoki vasiylarga o'z farzandlariga Internetda biron bir ma'lumotni oshkor qilmasliklarini maslahat berishlarini tavsiya qilamiz. Agar siz boladan yoki biz haqimizda biron bir ma'lumotga ega bo'lishimizga ishonsangiz, iltimos, yordam markazimiz orqali biz bilan bog'laning yoki elektron pochtani qo'llab-quvvatlang. Agar biz boladan Shaxsiy ma'lumot to'plaganimizni bilsak, biz zudlik bilan uni yo'q qilamiz, agar bunday ma'lumotlarni saqlash qonuniy majburiyatimiz bo'lmasa. Bundan tashqari, 16 yoshgacha bo'lgan voyaga etmaganlar o'zlari haqidagi ma'lumotlarni Internet orqali hech kimga yuborishdan oldin ota-onalaridan ruxsat so'rashlarini tavsiya qilamiz.
+<h5>ASOSIY</h5>
+Ko'pgina veb-saytlar singari biz ma'lumot to'plash uchun "cookie" fayllaridan foydalanamiz. Cookie fayllarini ikki maqsadda ishlatamiz. Xizmatlarning ba'zi xususiyatlarini yoqish, xizmatlarga qanday munosabatda bo'lishingizni yaxshiroq bilish va foydalanuvchilar tomonidan umumiy foydalanish va Xizmatlarda veb-trafik marshrutlashni kuzatish uchun biz sessiya ID cookie-fayllaridan foydalanamiz. Doimiy cookie-lardan farqli o'laroq, xizmatlardan chiqib, so'ngra brauzeringizni yopganingizda seans cookie-fayllari kompyuteringizdan o'chiriladi. Xizmatlarda uchinchi tomon reklama beruvchilari ham cookie-fayllarni brauzeringizga joylashtirishi yoki o'qishi mumkin.
+Siz cookie-fayllardan foydalanish-foydalanmaslikni tanlash huquqiga egasiz. Agar siz cookie-fayllardan foydalanishga rozilik bermasangiz, brauzeringiz sozlamalaridan foydalanib blokirovka qilingan yoki o'chirib qo'yganingizga ishonch hosil qiling. Agar siz cookie-fayllarni o'chirib qo'ysangiz, Xizmatlarning barcha qismlari yoki funktsiyalaridan foydalana olmaysiz.
+</br><h5>REKLAMA KOMPANIYALARI</h5>
+Xizmatlarda reklama berish uchun biz uchinchi tomon reklama kompaniyalaridan foydalanishimiz mumkin.
+Bizning tizimimiz va uchinchi tomon reklama texnologiyalari Xizmatlar ichidagi reklamani yo'naltirish uchun foydalanuvchilar faoliyati, qattiq diskdagi cookie fayllari, saytimizga tashrif buyurishingiz va siz foydalanadigan xizmatlardan olingan ma'lumotlardan foydalanadi.
+Bunga qo'shimcha ravishda, bizning reklama beruvchilarimiz bizning saytimiz va boshqa saytlardagi reklama maqsadlariga qaratilgan boshqa reklama texnologiyalaridan foydalanishi mumkin.
+Sizga taqdim etilayotgan reklama jarayonida, kompyuteringizda noyob uchinchi tomon cookie fayllari yoki cookie fayllari joylashtirilishi mumkin.
+Xuddi shunday, uchinchi tomon reklama kompaniyalari bizning onlayn reklamaimizni boshqarish va optimallashtirishga yordam berish uchun bizga pikselli teglarni (shuningdek, "toza gifs" yoki "mayoqchalar" deb atashadi) taqdim etishlari mumkin. Mayoqchalar bizga brauzer mayoq joylashgan saytga tashrif buyurganda, cookie-fayllarni tanib olish va foydalanuvchilarni ushbu saytga qaysi banner reklamalari olib kelishini bilib olishga imkon beradi.
+</br><h5>Shaxsiy ma'lumotlaringizni boshqarish</h5>
+Shaxsiy ma'lumotlaringizga kirish huquqiga egasiz. Bu sizning shaxsiy ma'lumotlaringiz qayta ishlanganligi yoki yo'qligi, qanday shaxsiy ma'lumotlarga ishlov berilayotganligi va qayta ishlash maqsadi to'g'risida xabardor bo'lish huquqini o'z ichiga oladi. Shuningdek, sizning shaxsiy iltimosingizga binoan, shaxsiy ma'lumotlaringizni qonuniy manfaatlarimizga asoslanib ishlov berishda amalga oshirishimiz kerak bo'lgan balans sinovini baholash yoki baholash haqidagi ma'lumotlarga kirish huquqiga egasiz. Bundan tashqari, agar sizning shaxsiy ma'lumotlaringiz noto'g'ri yoki to'liq bo'lmasa, o'zingizning shaxsiy ma'lumotlaringizni to'g'rilashingiz yoki qo'shishingizga haqingiz bor. Biz har qanday noto'g'ri ma'lumotlar qayta ishlanayotganidan xabardor bo'lgandan so'ng, biz har doim shunday shaxsiy ma'lumotlarni asossiz kechiktirmasdan tuzatamiz va sizga bu haqda xabar beramiz. Agar siz yaratgan bo'lsangiz <span class="company_name">{company_name}</span> qayd yozuviga kirsangiz, tizimga kirish orqali profilingizda berilgan ba'zi shaxsiy ma'lumotlarga kirish, o'zgartirish va o'chirishingiz mumkin <span class="company_name">{company_name}</span> hisob.
+
+<h5>Shaxsiy ma'lumotlaringizni qayta ishlashga bo'lgan huquqingiz</h5>
+Siz o'zingizning shaxsiy holatingiz bilan bog'liq asoslarda shaxsiy ma'lumotlaringizni qayta ishlashga qarshi chiqishingizga haqlisiz. Iltimos, iltimos, xizmatlarni sizga taqdim qilish uchun biz sizning shaxsiy ma'lumotlaringizni qayta ishlashimiz kerak. Bu shuni anglatadiki, bizning shaxsiy ma'lumotlardan foydalanishimizga qarshi chiqa olmaysiz va bizdan sizga xizmatlarni taqdim etishimizni talab qiladi.
+<h5>O'pirilish huquqi</h5>
+Shaxsiy ma'lumotlaringizni o'chirishni talab qilish huquqiga egasiz. Shaxsiy ma'lumotlaringizni so'rov bo'yicha o'chirib tashlaymiz, agar ular endi kerak bo'lmasa yoki shaxsiy ma'lumotlarni saqlash uchun qonuniy majburiyatimiz bo'lsa.
+</br><h5>Cheklashga HUQUQ</h5>
+Agar sizning shaxsiy ma'lumotlaringizning to'g'riligiga qarshi bo'lsangiz, agar siz qayta ishlash noqonuniy bo'lsa-yu, ammo shaxsiy ma'lumotlaringiz endi yo'q bo'lsa, biz sizning shaxsiy ma'lumotlaringizni o'chirib tashlashimizni istamasligingiz uchun bizdan Shaxsiy ma'lumotlaringizni qayta ishlashimizni cheklashni talab qilishga haqlidir. u to'plangan maqsadni bajarish uchun zarur bo'lgan yoki siz bizga ma'lum bir ishlov berish uchun qonuniy qiziqish deb hisoblamasligingiz haqida xabar bergansiz.
+<h5>Shaxsiy ma'lumotlaringiz nusxasini olish HUQUQI</h5>
+O'zingizning shaxsiy ma'lumotlaringiz nusxasiga kirish orqali kirishingiz mumkin <span class="company_name">{company_name}</span> hisob qaydnomasini oching va istalgan paytda bizning yordam markazimizga murojaat qiling <span class="email">elektron pochta: {email}</span>.
+
+</br><h5>HUQUQINGIZNI MUHOFAZA QILISh</h5>
+Biz bilan bog'lanishingiz mumkin <span class="email">{email}</span>biz sizdan to'plangan shaxsiy ma'lumotlarning ro'yxatini olish yoki bunday shaxsiy ma'lumotlarni o'chirib tashlash yoki yuqorida aytib o'tilgan huquqlaringizni talab qilish uchun har qanday vaqtda. Biz sizning so'rovingizga o'z vaqtida javob berish uchun qo'limizdan kelganini qilamiz, ammo iltimos, bu ikki kun davom etishi mumkinligini unutmang.
+Iltimos, esda tutingki, agar kimligingizni aniqlay olmasak va kafolat bermasak, bizdan qo'shimcha ma'lumotlarni taqdim etishingizni yoki sizning tizimingizga kirishingizni so'rashimiz mumkin <span class="company_name">{company_name}</span> iloji bo'lsa, hisob. E'tibor bering, agar biz ularning qonuniy egasi ekanligimizni tasdiqlay olmasak, shaxsiy ma'lumotlaringizni o'chirib tashlamaymiz. Biroq, biz har doim sizga yordam berish uchun bor kuchimizni sarflaymiz.
+
+<h5>HISOBINGIZNI O'ZINGIZNI O'ZINGIZNI O'ZGARTIRIShGA VA BOSHQA BO'LIShGA</h5>
+Cookie-fayllariga o'z roziligingizni istagan vaqtingizda qaytarib olishingiz mumkin. Iltimos, shuni yodda tutingki, bunday qaytarib olish sizning Maxfiylik siyosatining COOKIES qismida tushuntirilganidek, bizning veb-saytimiz tomonidan taklif qilingan barcha funktsiyalardan foydalana olmaysiz.
+Siz o'zingizga kirishingiz mumkin <span class="company_name">{company_name}</span> agar o'chirmoqchi bo'lsangiz, istalgan vaqtda hisob qaydnomasi. Ammo, agar shunday qilsangiz va o'yin tajribangizga ta'sir qilsa, biz sizga ma'lum mahsulotlar yoki xizmatlarni taqdim eta olmaymiz. O'zingizning yopilishingiz bilan barcha yutuqlaringizni yo'qotasiz <span class="company_name">{company_name}</span> hisob qaydnomangizda saqlanadi va shuningdek, sizda saqlangan barcha ma'lumotlar yoki ma'lumotlarni yo'qotadi <span class="company_name">{company_name}</span> qayd yozuvi va boshqa tarkiblar <span class="company_name">{company_name}</span> hisob.
+
+<h5>XAVFSIZLIK</h5>
+Ma'lumotlaringizni saqlash juda muhim. Hisob qaydnomangiz to'g'risidagi ma'lumot xavfsizlik devori orqasida himoyalangan serverda joylashgan. Agar siz sezgir bo'lsangiz, biz ushbu ma'lumotni eng yaxshi sa'y-harakatlarimiz bilan shifrlaymiz. Elektron pochta va tezkor xabarlar xavfsiz aloqa sifatida tan olinmaganligi sababli, biz sizga shaxsiy ma'lumotlarni elektron pochta yoki tezkor xabarlar xizmati orqali yubormasligingizni so'raymiz. Ammo, ruxsatsiz uchinchi tomon bu choralarni hech qachon bartaraf eta olmasligiga yoki shaxsiy ma'lumotlardan noto'g'ri maqsadlarda foydalana olmasligiga kafolat bera olmaymiz. Shaxsiy ma'lumotlaringizni forum yoki suhbat kabi xizmatlardan foydalanganingizda boshqa foydalanuvchilar bilan bo'lishishda ehtiyot bo'lishingizni maslahat beramiz. <span class="company_name">{company_name}</span> parolingiz alohida yoki aniq matnda yuborilishini Hech qachon so'ramaydi. Kimdir shunday qilsa, ehtimol sizning narsalaringizni o'g'irlamoqchi.
+</pre>
+
+    </div>

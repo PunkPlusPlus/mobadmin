@@ -1,0 +1,1 @@
+Контакты нашего менеджера: <a href="https://t.me/malins3" style="color:blue">ссылка</a>

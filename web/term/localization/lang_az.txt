@@ -1,0 +1,138 @@
+    <div class="support_contents">
+        <div id="main_title" class="main_title" style=" background-color: white;  position:relative; max-width:1000px; height:100px; text-align: center;">
+            <span style="width:251px; height:25px;font-family: 'Lilita One', cursive; font-size:35px; font-weight:bold; font-style:normal; font-stretch:normal; line-height:3.5; letter-spacing:normal; color:#000409;">
+GİZLİLİK SİYASƏTİ</span>
+        </div>
+        <pre style="font-family: 'Kanit', sans-serif;background-color:white;padding:20px">
+Qüvvədə olma tarixi: {date}
+
+{company_name}, Inc ("Biz" və ya "biz"), ABŞ qanunlarına əsasən yaradılmış, oyunlarımızı, tətbiqetmələrimizi, forumlarımızı və / və ya veb saytlarımızı (kollektiv olaraq "Xidmətlər") istifadə edən qonaqlar, istifadəçilər, müştərilər və digər tərəflər (kollektiv və ya ayrıca "İstifadəçilər") üçün məxfiliyin vacib olduğunu qəbul edir.
+
+Biz toplanmış şəxsi məlumatların nəzarətçisiyik. Şəxsi məlumatlarınızı (AB) Ümumi Məlumat Qoruma Tənzimlənməsi (2016/679) ("GDPR") daxil olmaqla və bununla məhdudlaşmayan məlumatların qorunması qanunvericiliyinə uyğun olaraq yalnız şəxsi məlumatlarınızı toplayırıq, istifadə edirik, saxlayırıq və ötürürük ("işləyirik") tətbiq olunan məlumatların qorunması üzrə milli qanunvericilik.
+
+Bu Məxfilik Siyasəti, Xidmətlər vasitəsilə toplanan İstifadəçinin məlumatlarının istifadəsi və açıqlanması ilə bağlı vacib məlumatları əks etdirir. Bu Məxfilik Siyasəti daxil edilir və Xidmət şərtlərimizə tabedir. Xidmətlərdən istifadəniz və Xidmətlərdə təqdim etdiyiniz hər hansı bir şəxsi məlumat bu Məxfilik Siyasətinin və Xidmət Şərtlərimizin şərtlərinə tabedir. Zəhmət olmasa, bu Məxfilik Siyasətini diqqətlə oxuyun və hər hansı bir sualınız varsa, dəstək elektron poçtumuzla əlaqə saxlaya bilərsiniz <span class="email">{email}</span>. Bu Məxfilik Siyasəti zaman-zaman dəyişdirilə bilər. Bu Məxfilik Siyasətinə edilən maddi düzəlişlərdən imtina etsəniz, bütün funksiyalar qorunub saxlanılan Xidmətlərdən istifadəyə davam edə bilməyəcəksiniz.
+
+Qeyd: Sosial və mobil platformalar vasitəsilə göstərilən xidmətlərimizə gəldikdə, davam etməzdən əvvəl onların istifadə şərtlərini, habelə məxfilik siyasətini oxumaq və qəbul etmək məsuliyyətinizdir. Digər veb saytların məxfilik praktikası üçün məsuliyyət daşımırıq.
+
+
+<h5>NİYƏ E-MAIL MƏNZİLİMİ YOXDUR</h5>
+E-poçt adresinizi toplamaqda əsas məqsədlərimiz daha zəngin, daha maraqlı bir təcrübə təqdim edərək xidmətlərimizi yaxşılaşdırmaq və iştirakınızı səmərəli idarə etməkdir. E-poçt adresinizi yalnız razılığınıza əsasən yığırıq və başa düşürsünüz ki, sizə yeniləmələr, bülletenlər və ya hər hansı digər məzmunlu elektron poçt göndərə bilərik.
+
+<h5>NİYƏ MƏLUMATLARI toplamışıq</h5>
+Məlumat toplamaqda əsas məqsədlərimiz daha zəngin, daha maraqlı bir təcrübə təqdim edərək xidmətlərimizi yaxşılaşdırmaq və iştirakınızı səmərəli idarə etməkdir. Qanuni öhdəliklərimizi yerinə yetirmək və ya sizinlə bağladığımız müqavilənin şərtlərini yerinə yetirə bilmək üçün və ya hətta Xidmətləri sizə təqdim edə bilmək üçün şəxsi məlumat toplamağımız lazım ola bilər. Bu şəxsi məlumatı bizə verməməyi seçsəniz, öhdəliklərimizi yerinə yetirməyimizə mane ola bilər. Bu da sizin işlətmək üçün lazım olan xidmətləri göstərə bilməyəcəyimizi ifadə edə bilər <span class="company_name">{company_name}</span> hesablar və ya siyasətlər. Bu da ola bilər ki, bizimlə olan bir məhsul və ya Xidməti ləğv edək və ya Xidmətlərimizin müəyyən hissələrini oynaya bilməyəcəksiniz. Xidmətlərinizi işə salmaq üçün lazımdır
+
+<h5>BİZİM MƏLUMAT topladıqda</h5>
+Xidmətlərimizi istifadə edərkən məlumatlarınızı, o cümlədən:
+<ul
+><li>Siz qeydiyyatdan keçin<span class="company_name">{company_name}</span> account</li
+><li>Siz bizim oyunlarımızı oynayırsınız</li
+><li> Qeydlər yazıb forumlarımızdan istifadə edirsiniz</li
+><li> Kömək Mərkəzimizə e-poçt və ya məktublar vasitəsilə müraciət edirsiniz</li
+><li> Veb saytlarımızdan, tətbiqlərimizdən və ya oyunlarımızdan istifadə edirsiniz</li
+><li> Anketlərimizdə iştirak edirsiniz</li
+><li> İstifadəçi araşdırma təşəbbüslərində iştirak edirsiniz</li
+><li> Müsabiqələrimizdə və ya promosyonlarımızda iştirak edirsiniz</li
+><li> Tədbirlərimizdən birinə yazılırsınız və ya iştirak edirsiniz</li
+><li> Reklamlarımızdan və ya bülletenlərimizdən birini vurursunuz</li
+><li> Üçün çalışırsınız <span class="company_name">Şirkət</span></li></ul>
+<h5>NƏ YOXDUR</h5>
+Xidmətlərdən birində bizimlə qeydiyyatdan keçdiyiniz zaman, birbaşa və ya dolayı yolla sizinlə əlaqə qurmaq və ya tanımaq üçün istifadə oluna bilən şəxsiyyət məlumatlarınızı soruşa bilərik ("Şəxsi Məlumat"). Qeydiniz və hesabınızı idarəetmə və fərdiləşdirmə hissəsi kimi təqdim etdiyiniz digər məlumatları da toplayırıq.
+Bizə təqdim edə biləcəyiniz fərdi məlumatlara e-poçt ünvanı, istifadəçi adı, yaşayış yeri, yaşı və ya doğum tarixi, adı və forumlarda və oyunlarda ləqəb daxildir.
+Sizə özünüz haqqında digər məlumatları (cins, yaş, peşə, hobbi, maraqlar, poçt kodu, dil, sahə kodu, yer, Xidmətin istifadə olunduğu vaxt zonası, mobil cihaz, proqram təminatı, hadisə) təqdim etmək imkanı təklif edə bilərik. məlumat və şəbəkə Media Giriş İdarəetmə (MAC) ünvanı və bağlantısı, sahib ola biləcəyiniz cihaz haqqında məlumat, sevdiyiniz veb saytlar, dost məlumat və fan səhifələr) və ya bu məlumatları sosial şəbəkə sistemlərindən ("SNS") toplaya bilərik. ) xidmətlərdən istifadə etdiyiniz (həmin sistemlərin istifadəsi şərtlərinə uyğun), sonra da bu Məxfilik Siyasəti ilə əhatə olunacaqdır.
+
+<h5>MƏLUMAT İSTƏYƏNLƏRİ</h5>
+Şəxsi məlumatlarınızı aşağıdakı məqsədlərdən biri üçün istifadə edə və işləyə bilərik:
+  <ul
+  ><li> sizinlə bağladığımız bir müqaviləni yerinə yetirmək;</li
+  ><li> qanuni borcumuz olduqda (məsələn, yaşınızı müəyyənləşdirmək və uşaqlardan fərdi məlumat toplamadığımızdan, mühasibat məqsədləri üçün və dövlət orqanları qarşısında öhdəliklərimizi yerinə yetirməməyimizdən);</li
+  ><li> buna razı olduqda (məsələn, hər hansı bir Xidmətə qeydiyyatdan keçməklə);</li
+  ><li> qanuni maraqlarımız olduqda (məsələn, siyasətimizi həyata keçirmək, gündəlik işimizi idarə etmək, anonim və məcmu şəkildə istifadə etmək, statistik təhlil aparmaq, birbaşa marketinq məqsədləri üçün, məlumat təhlükəsizliyini təmin etmək, saxtakarlığın qarşısını almaq və ya lazım olduqda Şəxsi Məlumatları təşkilatın müxtəlif hissələrinə ötürmək.</li
+  ></ul>
+<h5>MƏLUMATLARIMIZI NECƏ istifadə edirik</h5>
+Şəxsi məlumatlarınızı əvvəlcə məlumatların toplanması məqsədindən başqa heç bir məqsəd üçün istifadə etməyəcəyik.
+İşimizi idarə etmək və oyun təcrübənizi artırmaq üçün məlumatlarınızı aşağıdakı yollarla istifadə edə bilərik:
+<ul
+><li> Oyunlarımızı, tətbiqlərimizi və xidmətlərimizi idarə etmək, inkişaf etdirmək və inkişaf etdirmək</li
+><li> Bəyənə biləcəyiniz tövsiyələr və oyun təklifləri ilə təmin etmək</li
+><li> Suallarınıza və ya şərhlərinizə cavab vermək</li
+><li> İcazəsiz girişin qarşısını almaq üçün şəxsiyyətinizi təsdiqləmək</li
+><li> Proqram yeniləmələri ilə təmin etmək</li
+><li> Istifadə meyllərini başa düşmək</li
+><li> Marketinq dönüşüm nisbətlərini və reklam fəaliyyətinin digər elementlərini hesablamaq</li
+><li> Oyunlar və xidmətlərdəki səhv və səhvləri izləməyə və düzəltməyə kömək etmək</li
+><li> İstifadəçi təcrübənizi tənzimləmək üçün</li
+><li> Xidmətlərin bütövlüyünü və təhlükəsizliyini qorumaq</li
+><li> Əməliyyatları emal etmək və bu əməliyyatlarla bağlı sizinlə əlaqə yaratmaq</li
+><li> Qorumaq və ya idarə etmək <span class="company_name">{company_name}</span> hesabı, o cümlədən yeniləməyiniz üçün əlaqə saxlayır <span class="company_name">{company_name}</span> lazım olduqda hesab məlumatları</li
+><li> Tədqiqat və işgüzar kəşfiyyat məqsədi ilə hesabatlar, təhlillər və ya oxşarlıqlar yaratmaq və potensial problemləri, davranışları və meylləri izləyə bilmək</li
+><li> Xidmət şərtlərimizi və bu Məxfilik Siyasətini tətbiq etmək</li
+><li> Sizə bülleten və promosyon bildirişləri və təkliflər göndərmək üçün</li
+><li> Xidmətlərimizi ədalətli saxlamaq, saxtakarlıq və qanunsuz davranışları araşdırmaq və qarşısını almaq</li
+><li> Tətbiq olunan qanun və qaydalara riayət etmək</li
+></ul>Marketinq haqqında xüsusi məlumat: Müvafiq məhsullar və təkliflər barədə məlumat vermək üçün məlumatlarınızdan istifadə edirik (məsələn, sizə hədəf marketinq təqdim etmək). Belə hallarda topladığımız məlumatlarda bizə tam təmin edəcək məlumat, xidmətlərimizi istifadə edərkən və ya işlədiyimiz üçüncü tərəflərdən topladığımız məlumatlar var. İstədiyiniz və ya ehtiyac duyduğunuz və ya sizin üçün maraqlı ola biləcəyinizi düşünmək üçün bu məlumatları təhlil edirik.
+
+<h5>MƏLUMATLARINIZA NƏZARƏT</h5>
+Şəxsi məlumat olan mesajlar və ya yazı materialları göndərirsinizsə, bu məlumatların başqaları tərəfindən toplanaraq istifadə edilə biləcəyinə diqqət yetirin.
+Diqqət yetirin ki, Xidmət və ya üçüncü tərəf saytı və ya xidməti vasitəsilə yayımladığınız və ünsiyyət qurduğunuz müəyyən məlumatlar gizlilik gözləmədiyiniz açıq məlumatlardır. İstifadəçi tərəfindən yaradılan məzmunu saytlarımıza və ya Xidmətlərimizə töhfə vermək zamanı və ya söhbət otağında, bloglarda, mesaj lövhələrində, istifadəçi üçün "profillər" də və ya mobil xidmətlər və saytlarda oxşar forumlarda özünüz haqqında məlumatları açıqlamaq üçün seçim edə bilərsiniz. / və ya üçüncü tərəf saytları və ya xidmətləri vasitəsi ilə. Bu forumların hər hansı birində açıqladığınız məlumat ictimai məlumatdır və məxfilik və ya məxfiliyə dair heç bir gözlənti yoxdur.
+Bu ictimai fəaliyyətlər zamanı təqdim etdiyiniz hər hansı bir şəxsiyyəti müəyyənləşdirilmiş məlumatın bu forumların digər istifadəçiləri tərəfindən oxuna, toplana və ya istifadə oluna biləcəyindən xəbərdar olmalısınız. Bu forumların hər hansı birində ictimailəşdirmək üçün seçdiyiniz şəxsiyyəti müəyyənləşdirən məlumatlara görə cavabdeh deyilik. Əgər video, şəkil və ya fotoşəkilləri ictimai görünüş üçün xidmət vasitəsilə göndərirsinizsə, bunların baxıla, toplana, kopyalana və yayımlanacağından xəbərdar olmalısınız. / və ya digər istifadəçilər tərəfindən sizin razılığınız olmadan istifadə olunur. Biz bir Xidmət vasitəsilə yayımlamağı seçdiyiniz videolar, şəkillər və ya fotoşəkillərə görə məsuliyyət daşımırıq.
+</br><h5>MƏLUMATINIZI KEÇİRMƏZ</h5>
+
+Şəxsi məlumatlarınızı digər şirkət və təşkilatlara aça bilərik. Biz yalnız tərəfdaşlarımızın şəxsi məlumatlarınızı bizim tərəfimizdən həyata keçirdiyi etibarlı şəkildə qorumaq üçün eyni səviyyədə təmin edə biləcəyi təqdirdə və tərəfdaşlarımızın tətbiq olunan qanunlar və məxfilik qaydalarına əməl etmələrini təmin edə bildikləri təqdirdə edəcəyik. Məlumatınızı aşağıdakı tərəfdaşlarla bölüşə bilərik:
+<ul
+><li> Market Tədqiqat agentlikləri</li
+><li> Oyun paylama platformaları</li
+><li> Birgə nəşr tərəfdaşları</li
+><li> Ödəniş təminatçıları</li
+><li> Platformamızı və xidmətlərimizi dəstəkləyən şirkətlər və xarici məsləhətçilər</li
+><li> Reklam partnyorlarımız və marketinq kampaniyalarımızın effektivliyini anlamağa kömək edəcək platformalar</li
+><li> Unutmayın ki, oyunlarımız və ya məhsullarımız digər tətbiqlərdə reklam oluna bilər. Bu reklamlardan birini vurub oyunumuzu qurarsanız, Xidmətlərimizin İstifadəçisi olacaqsınız. Fırıldaqçılığın qarşısını almaq və oyunun quraşdırılmasını yoxlamaq üçün IDFA (iOS) və / və ya Reklamveren şəxsiyyətinizi (Android) müvafiq reklamverənlə paylaşa bilərik.</li
+><li> Məhkəmə qərarı ilə, qanunla və ya iflas və ya digər bədbəxt hadisə baş verdikdə, şəxsi məlumatlarınızı verə bilərik. Aldığımız hər hansı bir axtarış zəmanətinin, məhkəməyə çağırışın və ya digər oxşar hökumət tələbinin etibarlılığını şübhə altına almaq və ya etiraz etmək tələb olunmur.</li
+><li> Əgər işimizin bir hissəsini satmaq, ötürmək və ya birləşdirmək qərarına gəldiyimiz təqdirdə şəxsi məlumatlarınızı gələcək filial və ya şirkətlərlə bölüşə bilərik və əldə edə bilərik. Bununla birlikdə biz yalnız şəxsi məlumatları ötürəcəyik, əgər bu şirkətlər tətbiq olunan məxfilik qaydalarına uyğundursa və şəxsi məlumatlarınızın qorunub saxlanılmasına zəmanət verə bilsək.</li
+><li> Şəxsi məlumatlarınızı yaşadığınız yer kimi ciddi məxfilik qanunvericiliyi olmayan AB və EEA xaricindəki ölkələrə ötürəcəyik.</li
+></ul>
+
+<h5>FƏRDİ MƏLUMATLARINIZI TƏQDİM EDİR</h5>
+Bir oyunçu və ya müştəri olduğunuz müddətdə məlumatlarınızı saxlayacağıq <span class="company_name">{company_name}</span>. Tədqiqat və ya statistik məqsədlər üçün məlumatlarınızı daha uzun müddət saxlaya bilərik. Etdiyimiz təqdirdə məlumatlarınızın anonim olduğuna və bir şəxs olaraq sizin üçün izlənilməyəcəyinə əmin olacağıq. Qanuni və ya tənzimləyici səbəblərə görə silə bilməsək, onu daha uzun müddət saxlayacağıq.
+Bununla birlikdə, artıq ağlabatan bir müddətdən sonra artıq lazım olmayan bütün Şəxsi məlumatları silirik. Şəxsi məlumatları da xahişlə siləcəyik.
+
+<h5>UŞAQLAR</h5>
+Xidmətlərimiz uşaqlara yönəlməyib və 13 yaşından kiçik uşaqlardan bilərəkdən məlumat toplamırıq. Valideynlərə və ya qəyyumlara uşaqlarına onlayn olduqda heç bir məlumat verməmələrini tapşırmağı tövsiyə edirik. Bir uşağa dair və ya hər hansı bir məlumatımızın olacağına inansanız, Kömək Mərkəzimiz vasitəsi ilə bizimlə əlaqə qurun və ya elektron poçtumuzu dəstəkləyin. Şəxsi məlumatları bir uşaqdan topladığımızı öyrəndiyimiz təqdirdə, bu cür məlumatları saxlamaq qanuni olaraq öhdəliyimiz olmadıqda dərhal onu silirik. Bundan əlavə, 16 yaşdan kiçik yetkinlik yaşına çatmayanların İnternet üzərindən hər kəsə özləri haqqında hər hansı bir məlumat vermədən əvvəl valideynlərindən icazə istəmələrini tövsiyə edirik.
+
+<h5>PEÇENYELƏR</h5>
+Bir çox veb sayt kimi, məlumat toplamaq üçün "çərəzlər" dən istifadə edirik. Cookie qeyd qeydləri üçün kompüterinizin sabit diskinə köçürdüyümüz kiçik bir məlumat faylıdır. Kukilərdən iki məqsəd üçün istifadə edirik. Xidmətlərin müəyyən xüsusiyyətlərini aktivləşdirmək, Xidmətlərlə necə münasibət qurduğunuzu daha yaxşı başa düşmək və İstifadəçilər tərəfindən ümumi istifadəni və Xidmətlərdəki veb trafik marşrutunu izləmək üçün sessiya ID çərəzlərindən istifadə edirik. Davamlı çərəzlərdən fərqli olaraq, Xidmətlərdən çıxdıqda brauzerinizi bağladığınız zaman sessiya cookiesləri kompüterinizdən silinir. Xidmətlərdəki üçüncü tərəf reklamçıları brauzerinizdə çərəzlər yerləşdirə və oxuya bilər.
+Cookies-dən istifadə edib-etməməyinizi seçmək hüququnuz var. Çərəzlərin istifadəsinə razı deyilsinizsə, lütfən, brauzerinizin parametrlərindən istifadə edərək blok etməyinizi və ya etməməyinizi unutmayın. Kukiləri deaktiv etsəniz, Xidmətlərin bütün hissələrindən və ya funksiyalarından istifadə edə bilməyəcəksiniz.
+</br><h5>ÜÇÜNCÜ PARTİYA REKLAM ŞİRKƏTLƏRİ</h5>
+Xidmətlərdə reklam vermək üçün üçüncü tərəf reklam şirkətlərindən istifadə edə bilərik.
+Sistemimiz və üçüncü tərəf reklam texnologiyası, Xidmətlər daxilində reklamı hədəfləmək üçün İstifadəçilərin fəaliyyətindən, sabit diskdəki cookieslərimizdən, saytımıza və istifadə etdiyiniz Xidmətlərdən əldə olunan məlumatdan istifadə edir.
+Bundan əlavə, reklamçılarımız saytımızda və digər saytlarda reklamı hədəfləmək üçün digər üçüncü tərəf reklam texnologiyasından istifadə edə bilərlər.
+Sizə təqdim olunan reklamlar zamanı unikal üçüncü tərəf çerez və ya peçenye kompüterinizə yerləşdirilə bilər.
+Eynilə, üçüncü tərəf reklam şirkətləri, onlayn reklamlarımızı idarə etmək və optimallaşdırmaq üçün bizə piksel etiketləri (həmçinin "təmiz giflər" və ya "mayaklar" adlandıra bilər) təqdim edə bilərlər. Beaconlar, brauzer mayakın yerləşdiyi sayta daxil olduqda, brauzerin çerezini tanımağımızı və istifadəçilərin hansı bir sayta hansı banner reklamlarını gətirdiyini öyrənməyə imkan verir.
+
+<h5>Fərdi məlumatlarınızı idarə edin</h5>
+Şəxsi məlumatlarınızı əldə etmək hüququnuz var. Buraya şəxsi məlumatlarınızın işlənib hazırlanmaması, fərdi məlumatların nə işlənib hazırlanması və emalın məqsədi barədə məlumat vermək hüququ daxildir. Şəxsi məlumatlarınızı qanuni maraqlarımıza əsasən işləyərkən aparmağımız lazım olan balans testinin hər hansı bir qiymətləndirməsi və ya qiymətləndirməsi barədə məlumat əldə etmək hüququnuz var. Bundan əlavə, əgər belə Şəxsi Məlumatlar yanlış və ya natamamdırsa, Şəxsi məlumatlarınızı düzəltmək və ya əlavə etmək hüququnuz var. Hər hansı bir qeyri-dəqiq məlumatın emal edildiyini bildiyimiz zaman, hər zaman belə Şəxsi Məlumatları əsassız təxirə salmadan düzəldəcəyik və bu barədə sizə bildiririk. Əgər yaratmısınızsa <span class="company_name">{company_name}</span> hesabınıza daxil olaraq profilinizdə verilən bəzi şəxsi məlumatları əldə edə, dəyişdirə və silə bilərsiniz <span class="company_name">{company_name}</span> hesabı.
+
+<h5>FƏRDİ MƏLUMATLARININ İSTEHSALI ÜÇÜN MƏHBUS</h5>
+Şəxsi məlumatlarınızın müəyyən bir vəziyyətlə əlaqəli əsaslarla işlənməsinə etiraz etmək hüququnuz var. Xahiş edirəm unutmayın ki, Xidmətləri sizə təqdim etmək üçün hələ də bəzi Şəxsi Məlumatlarınızı işləməliyik. Bu o deməkdir ki, bizim Şəxsi Məlumatlardan istifadəmizə etiraz edə bilməzsiniz və yenə də Sizdən Xidmətlərimizi tələb etməyinizi tələb edir.
+
+<h5>SİZİN HÜQUQ</h5>
+Şəxsi məlumatlarınızı silməyimizi tələb etmək hüququnuz var. Şəxsi məlumatlarınızı məqsəd üçün artıq lazım olmadıqda və ya şəxsi məlumatları saxlamaq üçün qanuni bir öhdəliyimiz varsa, tələbinizlə siləcəyik.
+
+<h5>Məhdudlaşdırma hüququ</h5>
+Şəxsi məlumatlarınızın düzgünlüyünə etiraz edirsinizsə, əgər işləmə qanunsuzdur, lakin şəxsi məlumatlarınız artıq olmadıqda Şəxsi məlumatlarınızı silməyimizi istəmirsinizsə, Sizdən şəxsi məlumatlarınızı emalımızı məhdudlaşdırmağı tələb etmək hüququnuz var. üçün toplanmış məqsədi yerinə yetirmək üçün lazım idi və ya bizə müəyyən bir işləmə üçün qanuni marağımızı düşünmədiyiniz barədə məlumat verdiniz.
+
+<h5>Fərdi məlumatlarınızın bir nüsxəsini əldə etmək hüququ</h5>
+Şəxsi məlumatlarınızın bir nüsxəsini daxil olaraq əldə edə bilərsiniz <span class="company_name">{company_name}</span> hesabı və sonra istədiyiniz zaman Kömək Mərkəzimizə müraciət edin <span class="email">e-poçt: {email}</span>.
+
+<h5>SİZİN HÜQUQLARINIZIN MÜDAFİƏSİ</h5>
+Bizimlə əlaqə saxlaya bilərsiniz <span class="email">{email}</span> Sizdən yığdığımız bütün Şəxsi Məlumatların siyahısını əldə etmək və ya belə Şəxsi Məlumatları silmək və ya yuxarıda izah edildiyi kimi digər hüquqlarınızdan istifadə etmək üçün istənilən vaxt. İstəyinizi vaxtında cavablandırmaq üçün əlimizdən gələni edəcəyik, amma unutmayın ki, iki gün çəkə bilər.
+Unutmayın ki, kim olduğunuzu müəyyənləşdirə və zəmanət verə bilmiriksə, əlavə məlumat verməyinizi və ya daxil olmağınızınızı xahiş edə bilər <span class="company_name">{company_name}</span> mümkünsə hesab. Diqqət yetirin ki, sizin qanuni sahibi olduğunuzu təsdiq edə bilməyəcəyimiz təqdirdə şəxsi məlumatlarımızı silməyəcəyik. Bununla birlikdə hər zaman sizə kömək etmək üçün əlimizdən gələni edəcəyik.
+
+<h5>GÖZÜNÜZÜNÜZÜZÜZÜZÜZDƏN VƏ HESABINIZI YOXDAN BİLMƏZ</h5>
+İstədiyiniz zaman veb saytımızda çerezlərə razılığını geri ala bilərsiniz. Unutmayın ki, bu cür çəkilmə, bu Gizlilik Siyasətinin COOKIES bölməsində izah edildiyi kimi veb saytımızın təklif etdiyi bütün funksiyalardan istifadə edə bilməyəcəyiniz mənasını verə bilər.
+Daxil ola bilərsiniz <span class="company_name">{company_name}</span> hesabı istənilən vaxt silmək istəsəniz. Ancaq bunu edərsəniz və oyun təcrübəniz təsir edərsə, artıq sizə müəyyən məhsullar və ya xidmətlər təqdim edə bilməyəcəyik. Ayrıca, bütün nailiyyətlərinizi bağlayaraq itirəcəksiniz <span class="company_name">{company_name}</span> hesabınıza daxil olmaqla, hər hansı bir əşyanı və ya məlumatı itirirsiniz <span class="company_name">{company_name}</span> hesabı və özündə saxlanan hər hansı digər məzmunu <span class="company_name">{company_name}</span> hesabı.
+
+<h5>TƏHLÜKƏSİZLİK</h5>
+Məlumatınızı qorumaqdan çox narahatıq. Hesab məlumatınız firewall arxasında təhlükəsiz bir serverdə yerləşir. Həssas olduğunuzda, məlumatı ən yaxşı səylərimizlə istifadə edərək şifrələyirik. E-poçt və ani mesajlaşma etibarlı rabitə kimi tanınmadığı üçün şəxsi məlumatlarınızı e-poçt və ya təcili mesajlaşma xidmətləri ilə göndərməməyinizi xahiş edirik. Bununla birlikdə, icazəsiz üçüncü tərəflərin heç vaxt bu tədbirlərin öhdəsindən gələ bilməyəcəyinə və Şəxsi məlumatlarınızı lazımi məqsədlər üçün istifadə edə bilməyəcəyinə zəmanət verə bilmərik. Biz xidmətlərimizi forum və ya söhbət kimi xidmətlərimizdən istifadə edərkən şəxsi məlumatlarınızı digər istifadəçilərlə bölüşərkən ehtiyatlı olmağınızızı tövsiyə edirik. <span class="company_name">{company_name}</span> parolunuzun ayrı-ayrılıqda və ya aydın mətnlə göndərilməsini heç vaxt istəməyəcəkdir. Bunu edən hər kəs, ehtimal ki, əşyalarınızı oğurlamağa çalışır.
+</pre>
+
+    </div>

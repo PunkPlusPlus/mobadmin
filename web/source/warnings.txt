@@ -1,0 +1,591 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 21
+            [file] => controllers/AmyController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [1] => Array
+        (
+            [line] => 29
+            [file] => controllers/ApiController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [2] => Array
+        (
+            [line] => 29
+            [file] => controllers/ApiController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [3] => Array
+        (
+            [line] => 30
+            [file] => controllers/ApiController.php
+            [message] => No docblock for element '$freeAccessActions'
+        )
+
+    [4] => Array
+        (
+            [line] => 30
+            [file] => controllers/ApiController.php
+            [message] => No short description for element '$freeAccessActions'
+        )
+
+    [5] => Array
+        (
+            [line] => 6
+            [file] => controllers/AppaccessController.php
+            [message] => No docblock for element 'app\controllers\AppaccessController'
+        )
+
+    [6] => Array
+        (
+            [line] => 9
+            [file] => controllers/AppaccessController.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [7] => Array
+        (
+            [line] => 18
+            [file] => controllers/AppaccessController.php
+            [message] => No docblock for element 'actionAdd'
+        )
+
+    [8] => Array
+        (
+            [line] => 41
+            [file] => controllers/AppaccessController.php
+            [message] => No docblock for element 'actionDel'
+        )
+
+    [9] => Array
+        (
+            [line] => 6
+            [file] => controllers/AppaccessControllerDELETED.php
+            [message] => No docblock for element 'app\controllers\AppaccessController'
+        )
+
+    [10] => Array
+        (
+            [line] => 9
+            [file] => controllers/AppaccessControllerDELETED.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [11] => Array
+        (
+            [line] => 18
+            [file] => controllers/AppaccessControllerDELETED.php
+            [message] => No docblock for element 'actionAdd'
+        )
+
+    [12] => Array
+        (
+            [line] => 41
+            [file] => controllers/AppaccessControllerDELETED.php
+            [message] => No docblock for element 'actionDel'
+        )
+
+    [13] => Array
+        (
+            [line] => 196
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'getAllVisits'
+        )
+
+    [14] => Array
+        (
+            [line] => 215
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'getAllUsers'
+        )
+
+    [15] => Array
+        (
+            [line] => 299
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'addParams'
+        )
+
+    [16] => Array
+        (
+            [line] => 355
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'actionDeleteparam'
+        )
+
+    [17] => Array
+        (
+            [line] => 373
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'addPrices'
+        )
+
+    [18] => Array
+        (
+            [line] => 417
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'actionDeleteprice'
+        )
+
+    [19] => Array
+        (
+            [line] => 461
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'actionChangeTraffic'
+        )
+
+    [20] => Array
+        (
+            [line] => 484
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'app\controllers\MyErrorHandler'
+        )
+
+    [21] => Array
+        (
+            [line] => 486
+            [file] => controllers/AppsController.php
+            [message] => No docblock for element 'errorToException'
+        )
+
+    [22] => Array
+        (
+            [line] => 17
+            [file] => controllers/CloakController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [23] => Array
+        (
+            [line] => 68
+            [file] => controllers/DevicesController.php
+            [message] => No docblock for element 'getAllVisits'
+        )
+
+    [24] => Array
+        (
+            [line] => 8
+            [file] => controllers/DocsController.php
+            [message] => No docblock for element 'app\controllers\DocsController'
+        )
+
+    [25] => Array
+        (
+            [line] => 23
+            [file] => controllers/DocsController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [26] => Array
+        (
+            [line] => 13
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'app\controllers\GpscraperController'
+        )
+
+    [27] => Array
+        (
+            [line] => 16
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'getFilePath'
+        )
+
+    [28] => Array
+        (
+            [line] => 21
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'checkStatus'
+        )
+
+    [29] => Array
+        (
+            [line] => 45
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'getInfo'
+        )
+
+    [30] => Array
+        (
+            [line] => 85
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'actionTest'
+        )
+
+    [31] => Array
+        (
+            [line] => 89
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'cacheGP'
+        )
+
+    [32] => Array
+        (
+            [line] => 147
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'cacheLogo'
+        )
+
+    [33] => Array
+        (
+            [line] => 165
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'cacheScreenshots'
+        )
+
+    [34] => Array
+        (
+            [line] => 190
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'getLogo'
+        )
+
+    [35] => Array
+        (
+            [line] => 203
+            [file] => controllers/GpscraperController.php
+            [message] => No docblock for element 'getScreenshots'
+        )
+
+    [36] => Array
+        (
+            [line] => 82
+            [file] => controllers/LinkcountriesController.php
+            [message] => No docblock for element 'createOne'
+        )
+
+    [37] => Array
+        (
+            [line] => 253
+            [file] => controllers/LinkcountriesController.php
+            [message] => No docblock for element 'addUrls'
+        )
+
+    [38] => Array
+        (
+            [line] => 343
+            [file] => controllers/LinkcountriesController.php
+            [message] => No docblock for element 'checkAlreadyCountry'
+        )
+
+    [39] => Array
+        (
+            [line] => 375
+            [file] => controllers/LinkcountriesController.php
+            [message] => No docblock for element 'actionDeletelink'
+        )
+
+    [40] => Array
+        (
+            [line] => 396
+            [file] => controllers/LinkcountriesController.php
+            [message] => No docblock for element 'checkEmptyMainURL'
+        )
+
+    [41] => Array
+        (
+            [line] => 39
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element '$freeAccess'
+        )
+
+    [42] => Array
+        (
+            [line] => 39
+            [file] => controllers/LogsController.php
+            [message] => No short description for element '$freeAccess'
+        )
+
+    [43] => Array
+        (
+            [line] => 40
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element '$data'
+        )
+
+    [44] => Array
+        (
+            [line] => 40
+            [file] => controllers/LogsController.php
+            [message] => No short description for element '$data'
+        )
+
+    [45] => Array
+        (
+            [line] => 41
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element '$errors'
+        )
+
+    [46] => Array
+        (
+            [line] => 41
+            [file] => controllers/LogsController.php
+            [message] => No short description for element '$errors'
+        )
+
+    [47] => Array
+        (
+            [line] => 42
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element '$startTime'
+        )
+
+    [48] => Array
+        (
+            [line] => 42
+            [file] => controllers/LogsController.php
+            [message] => No short description for element '$startTime'
+        )
+
+    [49] => Array
+        (
+            [line] => 44
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [50] => Array
+        (
+            [line] => 50
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element 'infoSend'
+        )
+
+    [51] => Array
+        (
+            [line] => 58
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element 'errorSend'
+        )
+
+    [52] => Array
+        (
+            [line] => 66
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element 'warningSend'
+        )
+
+    [53] => Array
+        (
+            [line] => 75
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element 'endLog'
+        )
+
+    [54] => Array
+        (
+            [line] => 87
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element 'collectData'
+        )
+
+    [55] => Array
+        (
+            [line] => 92
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element 'getIp'
+        )
+
+    [56] => Array
+        (
+            [line] => 143
+            [file] => controllers/LogsController.php
+            [message] => No docblock for element 'actionSend'
+        )
+
+    [57] => Array
+        (
+            [line] => 25
+            [file] => controllers/MediaController.php
+            [message] => No docblock for element 'actionGetflag'
+        )
+
+    [58] => Array
+        (
+            [line] => 11
+            [file] => controllers/NotificationsController.php
+            [message] => No docblock for element 'app\controllers\NotificationsController'
+        )
+
+    [59] => Array
+        (
+            [line] => 8
+            [file] => controllers/PostbackController.php
+            [message] => No docblock for element 'app\controllers\PostbackController'
+        )
+
+    [60] => Array
+        (
+            [line] => 11
+            [file] => controllers/PostbackController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [61] => Array
+        (
+            [line] => 47
+            [file] => controllers/PostbackController.php
+            [message] => No docblock for element 'appsflyerConv'
+        )
+
+    [62] => Array
+        (
+            [line] => 75
+            [file] => controllers/PrelandsController.php
+            [message] => No docblock for element 'setUserFolder'
+        )
+
+    [63] => Array
+        (
+            [line] => 137
+            [file] => controllers/PrelandsController.php
+            [message] => No docblock for element 'getAllUsers'
+        )
+
+    [64] => Array
+        (
+            [line] => 224
+            [file] => controllers/PrelandsController.php
+            [message] => No docblock for element 'rmRec'
+        )
+
+    [65] => Array
+        (
+            [line] => 13
+            [file] => controllers/ProfileController.php
+            [message] => No docblock for element 'app\controllers\ProfileController'
+        )
+
+    [66] => Array
+        (
+            [line] => 16
+            [file] => controllers/ProfileController.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [67] => Array
+        (
+            [line] => 26
+            [file] => controllers/ProfileController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [68] => Array
+        (
+            [line] => 33
+            [file] => controllers/ProfileController.php
+            [message] => No docblock for element 'employeeProfile'
+        )
+
+    [69] => Array
+        (
+            [line] => 58
+            [file] => controllers/ProfileController.php
+            [message] => No docblock for element 'actionCalcRevenue'
+        )
+
+    [70] => Array
+        (
+            [line] => 66
+            [file] => controllers/ProfileController.php
+            [message] => No docblock for element 'checkAllInstall'
+        )
+
+    [71] => Array
+        (
+            [line] => 9
+            [file] => controllers/ProxyController.php
+            [message] => No docblock for element 'app\controllers\ProxyController'
+        )
+
+    [72] => Array
+        (
+            [line] => 11
+            [file] => controllers/ProxyController.php
+            [message] => No docblock for element 'GetIP'
+        )
+
+    [73] => Array
+        (
+            [line] => 54
+            [file] => controllers/ProxyController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [74] => Array
+        (
+            [line] => 59
+            [file] => controllers/ProxyController.php
+            [message] => No docblock for element 'actionTest'
+        )
+
+    [75] => Array
+        (
+            [line] => 78
+            [file] => controllers/ProxyController.php
+            [message] => No docblock for element 'сheckProxy'
+        )
+
+    [76] => Array
+        (
+            [line] => 115
+            [file] => controllers/SettingsController.php
+            [message] => No docblock for element 'actionClearCache'
+        )
+
+    [77] => Array
+        (
+            [line] => 18
+            [file] => controllers/SiteController.php
+            [message] => No docblock for element 'app\controllers\SiteController'
+        )
+
+    [78] => Array
+        (
+            [line] => 20
+            [file] => controllers/SiteController.php
+            [message] => No docblock for element '$freeAccessActions'
+        )
+
+    [79] => Array
+        (
+            [line] => 20
+            [file] => controllers/SiteController.php
+            [message] => No short description for element '$freeAccessActions'
+        )
+
+    [80] => Array
+        (
+            [line] => 50
+            [file] => controllers/SiteController.php
+            [message] => No docblock for element 'actionChangeLanguage'
+        )
+
+    [81] => Array
+        (
+            [line] => 62
+            [file] => controllers/SiteController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [82] => Array
+        (
+            [line] => 11
+            [file] => controllers/StatsController.php
+            [message] => No docblock for element 'app\controllers\StatsController'
+        )
+
+    [83] => Array
+        (
+            [line] => 31
+            [file] => controllers/StatsController.php
+            [message] => No docblock for element 'actionPartners'
+        )
+
+)

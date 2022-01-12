@@ -1,0 +1,108 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 659
+            [file] => controllers/ApiController.php
+            [message] => Method actionTestAuth has no parent to inherit from in app\controllers\ApiController.
+        )
+
+    [1] => Array
+        (
+            [line] => 38
+            [file] => controllers/AppsController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\AppsController.
+        )
+
+    [2] => Array
+        (
+            [line] => 23
+            [file] => controllers/BlockingController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\BlockingController.
+        )
+
+    [3] => Array
+        (
+            [line] => 21
+            [file] => controllers/DevicesController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\DevicesController.
+        )
+
+    [4] => Array
+        (
+            [line] => 14
+            [file] => controllers/DocsController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\DocsController.
+        )
+
+    [5] => Array
+        (
+            [line] => 28
+            [file] => controllers/LinkcountriesController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\LinkcountriesController.
+        )
+
+    [6] => Array
+        (
+            [line] => 20
+            [file] => controllers/LogController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\LogController.
+        )
+
+    [7] => Array
+        (
+            [line] => 24
+            [file] => controllers/LogsController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\LogsController.
+        )
+
+    [8] => Array
+        (
+            [line] => 18
+            [file] => controllers/MediaController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\MediaController.
+        )
+
+    [9] => Array
+        (
+            [line] => 23
+            [file] => controllers/PrelandsController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\PrelandsController.
+        )
+
+    [10] => Array
+        (
+            [line] => 20
+            [file] => controllers/SettingsController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\SettingsController.
+        )
+
+    [11] => Array
+        (
+            [line] => 24
+            [file] => controllers/SiteController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\SiteController.
+        )
+
+    [12] => Array
+        (
+            [line] => 36
+            [file] => controllers/SiteController.php
+            [message] => Method actions has no parent to inherit from in app\controllers\SiteController.
+        )
+
+    [13] => Array
+        (
+            [line] => 16
+            [file] => controllers/StatsController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\StatsController.
+        )
+
+    [14] => Array
+        (
+            [line] => 29
+            [file] => controllers/VisitsController.php
+            [message] => Method behaviors has no parent to inherit from in app\controllers\VisitsController.
+        )
+
+)
